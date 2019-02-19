@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar-grid-58 copy@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Event-inside" transform="translate(-529.000000, -1232.000000)" stroke="#FFFFFF">
+            <g id="calendar-grid-58-copy" transform="translate(530.000000, 1233.000000)">
+                <path d="M0,5 L14,5" id="Shape"></path>
+                <path d="M13,2 L1,2 C0.448,2 0,2.448 0,3 L0,14 C0,14.552 0.448,15 1,15 L13,15 C13.552,15 14,14.552 14,14 L14,3 C14,2.448 13.552,2 13,2 Z" id="Shape"></path>
+                <path d="M3,0 L3,2" id="Shape"></path>
+                <path d="M11,0 L11,2" id="Shape"></path>
+                <path d="M7,0 L7,2" id="Shape"></path>
+                <path d="M5,7 L5,13" id="Shape"></path>
+                <path d="M9,7 L9,13" id="Shape"></path>
+                <path d="M2,10 L12,10" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

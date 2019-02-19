@@ -1,0 +1,28 @@
+{
+    "plugins": [
+        ["import", { "libraryName": "antd",  "libraryDirectory": "lib", "style": true }],
+        ["@babel/plugin-proposal-class-properties"],
+        [
+            "module-resolver",
+            {
+                "root": "./src",
+                "extensions": [
+                    ".js"
+                ],
+                "alias": {
+                    "src": "./src",
+                    "components": "./src/components",
+                    "icons": "./src/icons",
+                    "containers": "./src/containers",
+                    "languageProvider": "./src/languageProvider",
+                    "pages": "./src/pages",
+                    "layouts": "./src/layouts",
+                    "utils": "./src/utils",
+                    "theme": "./src/theme",
+                    "HOC": "./src/HOC"
+                },
+                "cwd": "packagejson"
+            }
+        ]
+    ]
+}

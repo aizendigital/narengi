@@ -1,0 +1,8 @@
+{
+  "site.name": "ADS",
+    "loading" : "Loading...",
+    "loading.timedout" : "Loader timed out!",
+    "loading.failed" : "Error! Component failed to load",
+    "footer.copyright": "Copy@@@@",
+    "footer.logotext" : "TesTiiiii TesTiiiiii"
+}

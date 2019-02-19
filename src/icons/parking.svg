@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Event-inside" transform="translate(-529.000000, -1680.000000)">
+            <g id="Group-2" transform="translate(529.000000, 1680.000000)">
+                <g id="car-parking">
+                    <path d="M1.793,10.207 L2.5,9.5 L13.5,9.5 L14.207,10.207 C14.3945494,10.3944927 14.4999434,10.6488052 14.5,10.914 L14.5,13.5 L1.5,13.5 L1.5,10.914 C1.50005664,10.6488052 1.60545063,10.3944927 1.793,10.207 Z" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="2.5 9.5 3.5 5.5 12.5 5.5 13.5 9.5"></polyline>
+                    <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="0.5 3.5 8 0.5 15.5 3.5"></polyline>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="3.5" cy="11.5" r="1"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12.5" cy="11.5" r="1"></circle>
+                    <path d="M1.5,15.5 L4.5,15.5" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M11.5,15.5 L14.5,15.5" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

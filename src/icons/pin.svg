@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>square-pin@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Event-inside" transform="translate(-529.000000, -1510.000000)" stroke="#FFFFFF">
+            <g id="square-pin" transform="translate(530.000000, 1511.000000)">
+                <polyline id="Shape" points="2.5 12.5714286 0.357142857 17.1428571 14.6428571 17.1428571 12.5 12.5714286"></polyline>
+                <path d="M12.5,5.71428571 C12.5,9.00571429 7.5,14.3809524 7.5,14.3809524 C7.5,14.3809524 2.5,9.00571429 2.5,5.71428571 C2.5,2.33904762 5.08357143,0.380952381 7.5,0.380952381 C9.91642857,0.380952381 12.5,2.33904762 12.5,5.71428571 Z" id="Shape"></path>
+                <ellipse id="Oval" cx="7.5" cy="5.71428571" rx="1.42857143" ry="1.52380952"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
