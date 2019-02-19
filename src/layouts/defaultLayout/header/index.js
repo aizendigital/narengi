@@ -1,5 +1,5 @@
 import React, { PureComponent } from "react";
-import { HeaderLogo, HeaderWrapper } from "./style";
+import { HeaderWrapper } from "./style";
 import { Col, Row } from "antd";
 import PropTypes from "prop-types";
 
@@ -65,16 +65,6 @@ class Header extends PureComponent {
                             className={"pstatic"}
                         >
                             <div items={MenuItems} />
-                        </Col>
-                        <Col
-                            xs={{ span: 23, order: 1 }}
-                            sm={{ span: 23, order: 1 }}
-                            md={{ span: 23, order: 1 }}
-                            lg={{ span: 4, order: 3 }}
-                        >
-                            <HeaderLogo>
-                              
-                            </HeaderLogo>
                         </Col>
                     </Row>
                 </div>

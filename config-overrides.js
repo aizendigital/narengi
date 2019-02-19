@@ -20,10 +20,7 @@ module.exports = function override(config, env) {
     config = rewireAliases.aliasesOptions({
         components: path.resolve(__dirname, `${paths.appSrc}/components/`),
         containers: path.resolve(__dirname, `${paths.appSrc}/containers/`),
-        languageProvider: path.resolve(
-            __dirname,
-            `${paths.appSrc}/languageProvider/`
-        ),
+        languageProvider: path.resolve(__dirname, `${paths.appSrc}/languageProvider/`),
         pages: path.resolve(__dirname, `${paths.appSrc}/pages/`),
         layouts: path.resolve(__dirname, `${paths.appSrc}/layouts/`),
         icons: path.resolve(__dirname, `${paths.appSrc}/icons/`),
@@ -33,11 +30,7 @@ module.exports = function override(config, env) {
         src: path.resolve(__dirname, `${paths.appSrc}/`),
     })(config, env);
     config = injectBabelPlugin(
-        [
-            "import",
-            { libraryName: "antd", libraryDirectory: "es", style: true },
-        ],
-        config
+        [ "import", { libraryName: "antd", libraryDirectory: "es", style: true }, ], config
     );
     return config;
 };
